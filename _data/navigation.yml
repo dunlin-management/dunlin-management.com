@@ -1,0 +1,43 @@
+main:
+  - title: About
+    url: /about
+  - title: Stakeholder Engagement
+    url: /engagement
+  - title: Corporate Responsibility
+    url: /csr
+
+about:
+  - title: About
+    url: /about
+  - title: Dunlin Story
+    url: /about/story
+  - title: Decommissioning Planning
+    url: /about/planning
+  - title: Regulatory Context
+    url: /about/context
+  - title: Contact
+    url: /about/contact
+
+engagement:
+  - title: Engagement
+    url: /engagement
+  - title: Approvals Process
+    url: /engagement/approvals
+  - title: Dunlin Alpha Documentation
+    url: /engagement/documentation
+  - title: Principal Reports & Studies
+    url: /engagement/reports
+  - title: Completed Decommissioning Programmes
+    url: /engagement/programmes
+
+csr:
+  - title: Corporate Responsibility
+    url: /csr
+  - title: Health & Safety
+    url: /csr/safety
+  - title: Environment
+    url: /csr/environment
+  - title: Business Ethics
+    url: /csr/ethics
+  - title: Modern Slavery Statement
+    url: /csr/slavery
