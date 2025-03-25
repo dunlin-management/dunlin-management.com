@@ -22,9 +22,9 @@ has been undertaken.
 
 The substructure decommissioning programme will be finalised after
 consultation with the international community on a derogation
-application to leave the CGBS in place under the terms of [OSPAR
-Convention Decision 98/3](https://www.ospar.org/documents?v=6875) on
-the Disposal of Disused Offshore Installations. This allows for
+application to leave the Concrete Gravity Base Structure in place under the terms of OSPAR
+Convention Decision 98/3 on the
+[Disposal of Disused Offshore Installations](https://www.ospar.org/documents?v=6875). This allows for
 exceptions to be made from the normal requirement for full removal, such
 as concrete installations like Dunlin Alpha.
 

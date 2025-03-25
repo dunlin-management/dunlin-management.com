@@ -4,7 +4,7 @@ sidebar:
   nav: csr
 ---
 
-DML demands and maintains the highest professional standards in relation
+Dunlin Management Limited (DML) demands and maintains the highest professional standards in relation
 to business conduct.  The principle of good governance underpins our
 business activities and influences our ability to act in a manner that
 is not only legally compliant but is ethical and responsible. DML's Code
@@ -18,7 +18,7 @@ evasion are not only criminal offences but are unethical and entirely
 contrary to our core values.
 
 Our Code of Business Ethics reinforces that all officers and employees
-of Dunlin Management Limited must comply with all applicable laws, rules
+of DML must comply with all applicable laws, rules
 and regulations where they operate, international standards and rules,
 and all internal corporate rules and policies. In addition, all officers
 and employees of the company must act in a socially responsible manner

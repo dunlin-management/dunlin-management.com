@@ -4,7 +4,7 @@ sidebar:
   nav: csr
 ---
 
-DML considers that it has a responsibility to conduct business to the
+Dunlin Management Limited considers that it has a responsibility to conduct business to the
 highest safety standards, with due consideration for the environment and
 the communities in which we operate. Accordingly, we expect our
 organisation to act professionally, in adherence with company standards

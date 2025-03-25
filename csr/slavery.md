@@ -4,7 +4,7 @@ sidebar:
   nav: csr
 ---
 
-DML is committed to conducting business in compliance with the Modern
+Dunlin Management Limited (DML) is committed to conducting business in compliance with the Modern
 Slavery Act 2015, ensuring Modern Slavery is not taking place in any
 part of our business or supply chain.
 
