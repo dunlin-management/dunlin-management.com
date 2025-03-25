@@ -18,7 +18,7 @@ close-out.
 
 [Osprey Subsea Decommissioning Environmental Statement](/assets/XOD-DUN-HSE-RPT-00004-Osprey-Subsea-Decommissioning-Environmental-Statement.pdf)
 
-[Osprey Field DP Close Out Report -- OPRED Approved](/assets/Osprey-Field-DP-Close-Out-Report-%E2%80%93-OPRED-Approved.pdf)
+[Osprey Field DP Close Out Report -- OPRED Approved](/assets/Osprey-Field-DP-Close-Out-Report---OPRED-Approved.pdf)
 
 # Merlin Pipelines and Structures Decommissioning Programme
 
@@ -28,7 +28,7 @@ close-out.
 
 [Merlin Subsea Decommissioning Environmental Statement](/assets/XOD-DUN-HSE-RPT-00002-Merlin-Subsea-Decommissioning-Environmental-Statement.pdf)
 
-[Merlin Field DP Close Out Report -- OPRED Approved](/assets/Merlin-Field-DP-Close-Out-Report-%E2%80%93-OPRED-Approved.pdf)
+[Merlin Field DP Close Out Report -- OPRED Approved](/assets/Merlin-Field-DP-Close-Out-Report---OPRED-Approved.pdf)
 
 # Dunlin Fuel Gas & Power Import Decommissioning Programmes
 
@@ -38,7 +38,7 @@ close-out.
 
 [Dunlin Subsea Decommissioning Environmental Statement](/assets/XOD-DUN-HSE-RPT-00003-Dunlin-Subsea-Decommissioning-Environmental-Statement.pdf)
 
-[DFGI DPI DP Close Out Report -- OPRED Approved](/assets/DFGI_DPI-Field-DP-Close-Out-Report-%E2%80%93-OPRED-Approved.pdf)
+[DFGI DPI DP Close Out Report -- OPRED Approved](/assets/DFGI_DPI-Field-DP-Close-Out-Report---OPRED-Approved.pdf)
 
 # Dunlin Alpha to Cormorant Alpha Pipeline Decommissioning Programme
 
