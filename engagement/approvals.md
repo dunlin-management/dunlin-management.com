@@ -7,8 +7,9 @@ sidebar:
 The [Draft Decommissioning Programme](/assets/Dunlin-Alpha-Decom-Programme-Rev-A6-2nd-version-FBL-DUN-DUNA-HSE-01-PLN-00001.pdf) issued in 2018 originally covered
 both the topsides and the substructure and was accompanied by two key
 supporting documents: a [Comparative Assessment Report](/assets/Dunlin-Alpha-Comparative-Assessment-Report-A-301649-S07-REPT-005.pdf) and an
-[Environmental Appraisal](/assets/Dunlin-Alpha-Environmental-Appraisal-Report-XOD-DUN-HSE-RPT-00005.pdf). However, since that time the two programmes
-have been separated. The now-approved Final Dunlin Alpha Topsides
+[Environmental Appraisal](/assets/Dunlin-Alpha-Environmental-Appraisal-Report-XOD-DUN-HSE-RPT-00005.pdf).
+However, following submission of the draft, the programme was separated into two documents: topsides and substructure.
+The now-approved Final Dunlin Alpha Topsides
 Decommissioning Programme and associated Topsides Environmental
 Appraisal both take this separation into account.
 
